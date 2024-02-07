@@ -4,6 +4,7 @@
 [![Docker Status](https://img.shields.io/docker/automated/qgis/qgis.svg)](https://hub.docker.com/r/qgis/qgis/tags)
 [![🪟 MingW64 Windows 64bit Build](https://github.com/qgis/QGIS/actions/workflows/mingw64.yml/badge.svg)](https://github.com/qgis/QGIS/actions/workflows/mingw64.yml?query=branch%3Amaster+event%3Apush)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5869837.svg)](https://doi.org/10.5281/zenodo.5869837)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fente55%2FQGIS.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fente55%2FQGIS?ref=badge_shield)
 
 QGIS is a full-featured, user-friendly, free-and-open-source (FOSS) geographical information system (GIS) that runs on Unix platforms, Windows, and MacOS.
 
@@ -216,3 +217,7 @@ The [translation](https://qgis.org/en/site/getinvolved/translate.html) process i
 ### Other ways to contribute
 
 If you are not a developer, there are many other possibilities that do not require programming skills to help QGIS to evolve. Check our [project homepage for more information](https://qgis.org/en/site/getinvolved/index.html).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fente55%2FQGIS.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fente55%2FQGIS?ref=badge_large)
